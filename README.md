@@ -61,7 +61,7 @@
 - **Agentic AI and Generative AI Trainee** — DEPI x EYouth · Jul 2026 – Present
 - **Backend Node.js Trainee** — TechTrek · Aug 2026 – Sep 2026
 - **Applied AI Development (Level 2) Trainee** — ITI, Suez Canal University Branch · Jul 2026 – Aug 2026
-- **Machine Learning Training** — NTI x Digital Youth Egypt · Oct 2025 – Nov 2025
+- **Machine Learning Training** — NTI x DEY · Oct 2025 – Nov 2025
 - **Machine Learning Summer Training** — NTI x ITIDA · Jul 2025 – Aug 2025
 
 ---
